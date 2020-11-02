@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(78, 77, 77);
+}
+
+.cards{
+    margin-top: 2rem;
+}
+
+.row{
+    margin-top: 1.5rem !important;
+}
+
+h1{
+        position: relative;
+        left: 40%;
+        color: rgb(253, 249, 242);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
